@@ -12,6 +12,7 @@ const HomePage = () => {
               existing user, simply click on the "Edit" button next to their name and make the necessary changes. The
               app is designed to be user-friendly and intuitive, with a clean and modern interface that makes it easy to
               navigate and use.
+                <p>NOTE- YOU HAVE TO START THE SERVER(to start check file "README.md") FOR FULL FUNCTIONALITY.</p>
             </p>
           </div>
         </div>
